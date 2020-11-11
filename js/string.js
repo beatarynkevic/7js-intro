@@ -39,3 +39,11 @@ const html2 = `<div>
 </div>`;
 
 console.log(html2); 
+
+const berniukas = 'Jonce';
+const mergaite = 'Gerda';
+const judejimas = 'ejo';
+const vieta = 'miska';
+
+const pasaka = `${berniukas} ir ${mergaite} ${judejimas} i ${vieta}.`;
+console.log(pasaka); 
